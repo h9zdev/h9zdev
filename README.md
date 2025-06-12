@@ -111,7 +111,13 @@ All donations are very appreciated, they help me invest more time into my
 projects and they support me with doing what I love the most.  
 Also, donate or this lovely little fella has to pay with his life (  he only has 9 :c  )
 
-
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haybnzz&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haybnzz&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haybnzz&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haybnzz&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haybnzz&theme=github_dark" />
+</div>
 
 
 
